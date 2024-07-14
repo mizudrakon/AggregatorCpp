@@ -1,2 +1,2 @@
-# AggregatorCpp
-school project for sorting/grouping data
+### Aggregator trouble   
+Old school SQL-like project to be reworked...
